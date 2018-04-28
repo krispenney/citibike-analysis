@@ -20,7 +20,7 @@ If you wish to run these notebooks yourself, there are a few requirements to do 
 
 ### Provided Datasets
 
-I have included the datasets (within `/data`) that I utilized as a part of my analysis. One dataset that was too large (~500mb compressed) was the 2017 trips dataset, which can be downloaded. Note that the notebooks have been designed to read the csv files directly as `zip` archives, therefore no need to `unzip`.
+The data used for this analysis has been provided by [Citibike NYC](https://www.citibikenyc.com/system-data). I have included the datasets (within `/data`) that I utilized as a part of my analysis. One dataset that was too large (~500mb compressed) was the 2017 trips dataset, which can be downloaded. Note that the notebooks have been designed to read the csv files directly as `zip` archives, therefore no need to `unzip`.
 
 - `citibike_2017.csv.zip`: this dataset is a collection of the 2017 citibike trip dataset.
   - As noted above this file has been assembed and is hosted on my Google Drive.

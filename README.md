@@ -1,6 +1,6 @@
 # Citibike Analysis - Kris Penney (April 2018)
 
-This archive contains the various notebooks (within `/notebooks`) that I used to perform my analysis for this project. I have provided them as both `ipynb` ([Jupyter Notebooks](http://jupyter.org)) and `pdf` files. Datasets have been provided under `/data`.
+This archive contains the various notebooks (within [/notebooks](/notebooks)) that I used to perform my analysis for this project. I have provided them as both `ipynb` ([Jupyter Notebooks](http://jupyter.org)) and `pdf` files. Datasets have been provided under [/data](/data).
 
 ### Requirements
 
